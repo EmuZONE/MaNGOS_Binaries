@@ -1,4 +1,6 @@
-# MaNGOS_Binaries
+![alt tag](http://worldofwarcry.de/images/mbemu.png)
+
+# MaNGOS Binaries
 Compiled MaNGOS Binaries for Windows
 
 * MaNGOS TWO
